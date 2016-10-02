@@ -1,6 +1,4 @@
 prvni radek
 
 # komentovat
-
-
-posledni radek
+patej asi radek upravenej
